@@ -1,0 +1,11 @@
+C:\Users\brian\source\repos\krabby-k\project.1\proj\proj\bin\Debug\proj.exe.config
+C:\Users\brian\source\repos\krabby-k\project.1\proj\proj\bin\Debug\proj.exe
+C:\Users\brian\source\repos\krabby-k\project.1\proj\proj\bin\Debug\proj.pdb
+C:\Users\brian\source\repos\krabby-k\project.1\proj\proj\obj\Debug\proj.csprojAssemblyReference.cache
+C:\Users\brian\source\repos\krabby-k\project.1\proj\proj\obj\Debug\proj.Properties.Resources.resources
+C:\Users\brian\source\repos\krabby-k\project.1\proj\proj\obj\Debug\proj.csproj.GenerateResource.cache
+C:\Users\brian\source\repos\krabby-k\project.1\proj\proj\obj\Debug\proj.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\krabby-k\project.1\proj\proj\obj\Debug\proj.exe
+C:\Users\brian\source\repos\krabby-k\project.1\proj\proj\obj\Debug\proj.pdb
+C:\Users\brian\source\repos\krabby-k\project.1\proj\proj\obj\Debug\proj.Login.resources
+C:\Users\brian\source\repos\krabby-k\project.1\proj\proj\obj\Debug\proj.signup.resources

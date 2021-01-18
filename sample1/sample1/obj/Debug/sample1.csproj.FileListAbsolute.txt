@@ -1,0 +1,10 @@
+C:\Users\brian\source\repos\krabby-k\project.1\sample1\sample1\bin\Debug\sample1.exe.config
+C:\Users\brian\source\repos\krabby-k\project.1\sample1\sample1\bin\Debug\sample1.exe
+C:\Users\brian\source\repos\krabby-k\project.1\sample1\sample1\bin\Debug\sample1.pdb
+C:\Users\brian\source\repos\krabby-k\project.1\sample1\sample1\obj\Debug\sample1.csprojAssemblyReference.cache
+C:\Users\brian\source\repos\krabby-k\project.1\sample1\sample1\obj\Debug\sample1.Form1.resources
+C:\Users\brian\source\repos\krabby-k\project.1\sample1\sample1\obj\Debug\sample1.Properties.Resources.resources
+C:\Users\brian\source\repos\krabby-k\project.1\sample1\sample1\obj\Debug\sample1.csproj.GenerateResource.cache
+C:\Users\brian\source\repos\krabby-k\project.1\sample1\sample1\obj\Debug\sample1.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\krabby-k\project.1\sample1\sample1\obj\Debug\sample1.exe
+C:\Users\brian\source\repos\krabby-k\project.1\sample1\sample1\obj\Debug\sample1.pdb
